@@ -1,0 +1,73 @@
+body > header {
+    font-family:'Times New Roman', Times, serif;   
+    font-size: xx-large;
+    font-weight: bold;
+    border-bottom: 2px solid black;
+    border-left: 7px solid black;
+    padding-left: 10px;
+    }
+
+#github {
+    font-family: "Dongle", sans-serif;
+    font-style: normal;
+    font-size: x-large;
+    color: gray;
+    text-decoration: none;
+    }
+
+#github:hover {
+    text-decoration: underline;
+    color: blue;
+    }
+
+li {
+    font-family: "Dongle", sans-serif;
+    font-style: normal;
+    font-size: xx-large;
+    }
+
+#image {
+    margin: 30px;
+    float: right;
+    border: 2px solid black;
+    }
+
+div h1 {
+    color: gray;
+    float: right;
+    font-family: "Dongle", sans-serif;
+    font-style: normal;
+    font-size: x-large;
+    }
+
+div header {  
+    font-family: "Dongle", sans-serif;
+    font-style: normal;
+    font-size: xx-large;
+    font-weight: bold;
+    padding-left: 10px;
+    margin-top: 20px;
+    }
+
+div main {
+    font-family: "Dongle", sans-serif;
+    font-style: normal;
+    font-size: x-large;
+    font-weight: bold;
+    padding-left: 20px;
+    }
+
+div footer {
+    font-family: "Dongle", sans-serif;
+    font-style: normal;
+    font-size: x-large;
+    color: gray;
+    padding-left: 30px;
+    }
+
+label {
+    font-family: "Dongle", sans-serif;
+    font-style: normal;
+    font-size: x-large;
+    padding-left: 20px;
+    }
