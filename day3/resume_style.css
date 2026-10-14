@@ -1,0 +1,57 @@
+.label {
+    font-family:'Times New Roman', Times, serif;   
+    font-size: xx-large;
+    font-weight: bold;
+    border-bottom: 2px solid black;
+    border-left: 7px solid black;
+    padding-left: 10px;
+    }
+
+li {
+    font-family: "Dongle", sans-serif;
+    font-size: xx-large;
+    }
+
+
+#github {
+    font-family: "Dongle", sans-serif;
+    font-size: x-large;
+    color: gray;
+    text-decoration: none;
+    }
+
+#github:hover {
+    text-decoration: underline;
+    color: blue;
+    }
+
+#image {
+    margin: 10px;
+    float: right;
+    border: 2px solid black;
+    }
+
+#experience {
+    font-family: "Dongle", sans-serif;
+    font-size: x-large;
+    }
+
+h1 {
+    color: gray;
+    float: right;
+    font-family: "Dongle", sans-serif;
+    font-size: x-large;
+    }
+
+header {  
+    font-size: xx-large;
+    font-weight: bold;
+    }
+
+main {
+    font-weight: bold;
+    }
+
+footer {
+    color: gray;
+    }
