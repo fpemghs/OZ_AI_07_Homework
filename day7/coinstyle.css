@@ -1,0 +1,45 @@
+
+h1 {
+    text-align: center;
+}
+
+.tabs {
+    text-align: center;
+    margin: 10px;
+    gap: 10px;
+}
+
+.tab-btn {
+    font-size: large;
+}
+
+.tab-btn.active {
+    background-color: gray;
+}
+
+.search-container {
+    text-align: center;
+    margin: 20px;
+}
+
+#searchInput {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid black;
+    font-size: medium;
+}
+
+table {
+    width: 100%;
+    margin: 20px;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+
+
+.hidden {
+    display: none;
+}
